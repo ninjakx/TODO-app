@@ -1,1 +1,0 @@
-# Flask based todo app
