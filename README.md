@@ -1,3 +1,3 @@
-# TODO-app
+# A TODO-app
 A Todo app built in Flask
 
